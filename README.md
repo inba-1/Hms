@@ -26,18 +26,18 @@ Welcome to ** Hospital Management System**, a simple yet powerful **Java-based c
 ## 📌 How It Works
 
 When you run the program, you'll see a menu like this:
-Welcome to  Hospital Management
+-Welcome to  Hospital Management
 
-Add Patient
+-Add Patient
 
-View Patient
+-View Patient
 
-View Doctor
+-View Doctor
 
-Book Appointment
+-Book Appointment
 
-Exit
-Enter your choice:
+-Exit
+-Enter your choice:
 ### ✅ Sample Appointment Booking Flow
 
 Enter the patient id: 1
