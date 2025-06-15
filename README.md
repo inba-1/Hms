@@ -1,7 +1,7 @@
 
-# 🏥 ABC Hospital Management System
+# 🏥 Hospital Management System
 
-Welcome to **ABC Hospital Management System**, a simple yet powerful **Java-based console application** for managing patients, doctors, and appointments.
+Welcome to ** Hospital Management System**, a simple yet powerful **Java-based console application** for managing patients, doctors, and appointments.
 
 ---
 
@@ -26,4 +26,22 @@ Welcome to **ABC Hospital Management System**, a simple yet powerful **Java-base
 ## 📌 How It Works
 
 When you run the program, you'll see a menu like this:
+Welcome to  Hospital Management
+
+Add Patient
+
+View Patient
+
+View Doctor
+
+Book Appointment
+
+Exit
+Enter your choice:
+### ✅ Sample Appointment Booking Flow
+
+Enter the patient id: 1
+Enter the doctor id: 2
+Enter the appointment date (YYYY-MM-DD): 2024-12-01
+✅ Appointment Booked Successfully!
 
