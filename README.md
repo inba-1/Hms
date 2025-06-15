@@ -26,7 +26,7 @@ Welcome to ** Hospital Management System**, a simple yet powerful **Java-based c
 ## 📌 How It Works
 
 When you run the program, you'll see a menu like this:
--Welcome to  Hospital Management
+- Welcome to  Hospital Management
 
 1. Add Patient
 
