@@ -28,20 +28,19 @@ Welcome to ** Hospital Management System**, a simple yet powerful **Java-based c
 When you run the program, you'll see a menu like this:
 -Welcome to  Hospital Management
 
--Add Patient
+1. Add Patient
 
--View Patient
+2. View Patient
 
--View Doctor
+3. View Doctor
 
--Book Appointment
+4. Book Appointment
 
--Exit
--Enter your choice:
+5. Exit
+- Enter your choice:
 ### ✅ Sample Appointment Booking Flow
-
-Enter the patient id: 1
-Enter the doctor id: 2
-Enter the appointment date (YYYY-MM-DD): 2024-12-01
+- Enter the patient id: 1
+- Enter the doctor id: 2
+- Enter the appointment date (YYYY-MM-DD): 2024-12-01
 ✅ Appointment Booked Successfully!
 
